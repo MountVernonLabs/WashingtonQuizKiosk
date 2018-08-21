@@ -1,0 +1,8 @@
+Title      : Video:nVidia GeForce 9300GE Driver
+Version    : A02 XP with DUP
+OEM Name   : nVidia
+OEM Ver    : 186.27 WHQL XP_32
+Computers  : OptiPlex - 740, 960, 760, 360, 980, 780, 380, 580
+Oses       : Windows XP Professional, 
+Languages  : Brazilian Portuguese, Chinese-S, Chinese-T, English, French, German, Italian, Japanese, Korean, Polish, Russian, Spanish
+Created    : Tue Aug 25 23:51:45 CDT 2009
